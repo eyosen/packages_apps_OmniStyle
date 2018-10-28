@@ -16,17 +16,17 @@
  -->
 
 <themes>
-    <theme name="Slutty Pink" accent="org.omnirom.theme.accent.sluttypink"
+    <theme name="Pink" accent="org.omnirom.theme.accent.pink"
            thumbnail="thumbnail_slutty_pink.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.darkblue"/>
-    <theme name="From Hell" accent="org.omnirom.theme.accent.fromhell"
-           thumbnail="thumbnail_from_hell.png" notification="org.omnirom.theme.notification.primary"
+    <theme name="Demon Red" accent="org.omnirom.theme.accent.demonred"
+           thumbnail="thumbnail_demon_red.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.almostblack"/>
-    <theme name="Darkness Meister" accent="org.omnirom.theme.accent.bluemonday"
-           thumbnail="thumbnail_darkness_meister.png" notification="org.omnirom.theme.notification.primary"
+    <theme name="Sky Blue" accent="org.omnirom.theme.accent.skyblue"
+           thumbnail="thumbnail_sky_blue.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.darkblue"/>
-    <theme name="Smoked Green" accent="org.omnirom.theme.accent.smokinggreen"
-           thumbnail="thumbnail_smoked_green.png" notification="org.omnirom.theme.notification.primary"
+    <theme name="Light Green" accent="org.omnirom.theme.accent.lightgreen"
+           thumbnail="thumbnail_light_green.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.omni"/>
     <theme name="Omni" accent="org.omnirom.theme.accent.omni"
            thumbnail="thumbnail_omni.png" notification="org.omnirom.theme.notification.primary"
@@ -34,7 +34,7 @@
     <theme name="Zero Zero" accent="org.omnirom.theme.accent.white"
            thumbnail="thumbnail_zero_zero.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.black"/>
-    <theme name="Black And YellO" accent="org.omnirom.theme.accent.goldenshower"
+    <theme name="Black And YellO" accent="org.omnirom.theme.accent.yellow"
            thumbnail="thumbnail_black_yellow.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.black"/>
 </themes>
