@@ -139,7 +139,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".ig_fxckingmind"
-            android:label="IG Stuff | fxckingdeathwish's mind" >
+            android:label="fxckingdeathwish's mind" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -148,7 +148,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".idk_sumtim"
-            android:label="IG Stuff | ElDainosor.bmp summertime" >
+            android:label="ElDainosor.bmp summertime" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -157,7 +157,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".nataliasolaange"
-            android:label="IG Stuff | nataliasolaange collection" >
+            android:label="nataliasolaange collection" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -166,7 +166,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".clo_llection"
-            android:label="Collections | Best of COLOURLovers.com" >
+            android:label="Best of COLOURLovers.com" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -175,7 +175,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".clo_tinted"
-            android:label="Collections | Best of COLOURLovers.com but Tinted" >
+            android:label="Best of COLOURLovers.com but Tinted" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -184,7 +184,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".bootleg_style"
-            android:label="Collections | Bootleggers Styled Headers" >
+            android:label="Bootleggers Styled Headers" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -193,7 +193,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".clo_aestheticwalls_mix"
-            android:label="Collections | Memesis + pizzheaderz aesthetic - Vaporwave" >
+            android:label="Memesis + pizzheaderz aesthetic - Vaporwave" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -202,7 +202,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".clo_aestheticwalls_sj"
-            android:label="Collections | Memesis Aesthetic - Sacred Japan" >
+            android:label="Memesis Aesthetic - Sacred Japan" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -211,7 +211,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".purplegorilla"
-            android:label="Collections | I don't believe we're been properly introduced" >
+            android:label="I don't believe we're been properly introduced" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -220,7 +220,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".clo_niceheader"
-            android:label="Collections | Community nicest header submissions" >
+            android:label="Community nicest header submissions" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -229,7 +229,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".clo_pizzshufied"
-            android:label="Collections | pizzheaderz shishufied" >
+            android:label="pizzheaderz shishufied" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -238,7 +238,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".clo_procons"
-            android:label="Collections | pizzheaderz pro and cons" >
+            android:label="pizzheaderz pro and cons" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -247,7 +247,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".clo_win98"
-            android:label="Collections | W98" >
+            android:label="W98" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -256,7 +256,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".ig_agusfotos"
-            android:label="IG Stuff | agus.laz4rte repertoire" >
+            android:label="agus.laz4rte repertoire" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -265,7 +265,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".ig_conejocelestial"
-            android:label="IG Stuff | conejocelestial's insight" >
+            android:label="conejocelestial's insight" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
