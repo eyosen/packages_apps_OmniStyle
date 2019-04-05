@@ -66,5 +66,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="nature_header_random">Nature (random)</string>
     <string name="poly_header">Poly (time)</string>
     <string name="underwater_header">Underwater (time)</string>
-    <string name="scenery_header">Scenery - anime</string>
+    <string name="scenery_header">Scenery - anime (random)</string>
+    <string name="got_header">Game of Thrones (random)</string>
 </resources>
