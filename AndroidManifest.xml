@@ -142,7 +142,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="fxckingdeathwish's mind" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
@@ -151,7 +150,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="ElDainosor.bmp summertime" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
@@ -160,7 +158,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="nataliasolaange collection" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
@@ -169,7 +166,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="Best of COLOURLovers.com" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
@@ -178,7 +174,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="Best of COLOURLovers.com but Tinted" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
@@ -187,7 +182,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="Bootleggers Styled Headers" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
@@ -196,7 +190,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="Memesis + pizzheaderz aesthetic - Vaporwave" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
@@ -205,7 +198,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="Memesis Aesthetic - Sacred Japan" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
@@ -214,7 +206,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="I don't believe we're been properly introduced" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
@@ -223,7 +214,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="Community nicest header submissions" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
@@ -232,7 +222,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="pizzheaderz shishufied" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
@@ -241,7 +230,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="pizzheaderz pro and cons" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
@@ -250,7 +238,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="W98" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
@@ -259,7 +246,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="agus.laz4rte repertoire" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
@@ -268,7 +254,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="conejocelestial's insight" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
@@ -277,7 +262,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="the nicest header pack" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
@@ -286,7 +270,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="JayRod - Game of Thrones" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
@@ -295,7 +278,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="JayRod - JLA, Xmen and Avengers" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
