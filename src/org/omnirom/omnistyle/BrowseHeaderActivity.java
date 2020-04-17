@@ -273,7 +273,7 @@ public class BrowseHeaderActivity extends Activity {
                 if (!mRemoteMode) {
                     String label = mLabelList.get(position);
                     loadHeaderPackage(mHeaderMap.get(label));
-                    //mCreatorName.setVisibility(TextUtils.isEmpty(mCreator) ? View.GONE : View.VISIBLE);
+                    mCreatorName.setVisibility(TextUtils.isEmpty(mCreator) ? View.GONE : View.VISIBLE);
                     mCreatorName.setText(mCreatorLabel + mCreator);
                     mHeaderListAdapter.notifyDataSetChanged();
                 } else {

@@ -32,8 +32,8 @@ list_header - sequential iterate over the image list
 change_interval - change interval in minutes - default interval is one hour
 only valid in random or sequential mode
 
-meta-data - additional optional information about the header pack
-creator text will be displayed in BrowseHeaderActivity 
+meta_data - additional optional information about the header pack
+creator text will be displayed in BrowseHeaderActivity
 
 ```xml
 <daylight_headers>
@@ -50,7 +50,7 @@ creator text will be displayed in BrowseHeaderActivity
 </daylight_headers>
 
 <daylight_headers>
-    <meta-data creator="maxwen" />
+    <meta_data creator="maxwen" />
     <change_interval minutes="10" />
     <list_header image="nature01" />
     <list_header image="nature02" />
