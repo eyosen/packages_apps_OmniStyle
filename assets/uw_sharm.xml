@@ -21,16 +21,17 @@ day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
     <meta_data creator="Ali B. - Sharm el Sheikh" />
-    <random_header image="ab_uw_01" />
-    <random_header image="ab_uw_02" />
-    <random_header image="ab_uw_03" />
-    <random_header image="ab_uw_04" />
-    <random_header image="ab_uw_05" />
-    <random_header image="ab_uw_06" />
-    <random_header image="ab_uw_07" />
-    <random_header image="ab_uw_08" />
-    <random_header image="ab_uw_09" />
-    <random_header image="ab_uw_10" />
-    <random_header image="ab_uw_11" />
-    <random_header image="ab_uw_12" />
+    <change_interval minutes="120" />
+    <list_header image="ab_uw_01" />
+    <list_header image="ab_uw_02" />
+    <list_header image="ab_uw_03" />
+    <list_header image="ab_uw_04" />
+    <list_header image="ab_uw_05" />
+    <list_header image="ab_uw_06" />
+    <list_header image="ab_uw_07" />
+    <list_header image="ab_uw_08" />
+    <list_header image="ab_uw_09" />
+    <list_header image="ab_uw_10" />
+    <list_header image="ab_uw_11" />
+    <list_header image="ab_uw_12" />
 </daylight_headers>

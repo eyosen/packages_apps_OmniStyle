@@ -104,8 +104,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
 
         <activity
-            android:name=".ab_uw_sharm"
-            android:label="Underwater" >
+            android:name=".uw_sharm"
+            android:label="@string/underwater_header" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
                 <category android:name="android.intent.category.DEFAULT" />
